@@ -6408,10 +6408,10 @@ gatsby-core-utils@^1.7.1, gatsby-core-utils@^1.8.0:
     tmp "^0.2.1"
     xdg-basedir "^4.0.0"
 
-gatsby-embedder-excalidraw@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-embedder-excalidraw/-/gatsby-embedder-excalidraw-1.1.1.tgz#7c843a905fc5d59ae62be33b1cd21dc92084f15d"
-  integrity sha512-Yqb4S4J4mlD53zt+e3bOzlWw8Y1foNZpcs4tWfwzktsjvhGWbeZxXu9Mb589CY9pWEk9sN5xgQ+V8HSon+4qRQ==
+gatsby-embedder-excalidraw@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/gatsby-embedder-excalidraw/-/gatsby-embedder-excalidraw-1.1.4.tgz#a6b82c1c6ab6f90000b6049e32864589f6dd4e93"
+  integrity sha512-TSF4QrBez/L27AOY8UTe534jxQFpjiT3JBSOwNmLqQ1dsWxZTi+e9j37NzyQZj87zkxantmOvmJfMSWJXydp2w==
   dependencies:
     puppeteer "^4.0.1"
 
